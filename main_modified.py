@@ -272,7 +272,7 @@ elif exam_pattern == 2:
 while True:
     solution_file = input("Enter the name of the solution file : ")
     solution_file = solution_file + '.txt'
-    os.chdir('V:\Python\mcq checker\solution files')
+    os.chdir('C:\Stash\Coding\mcq checker\solution files')
     try :
         with open(f"{solution_file}", 'r') as solutions:
             content = solutions.readlines()
@@ -334,7 +334,7 @@ for t in section_sep_answer_key:
 with open('Solution_temp.txt', 'a+') as writer:
     writer.writelines(f'Final Answer list of Date - {date}\n{catalog}\nsection seperated :-\n{section_sep_catalog}\n'+'-'*1024+'\n\n')
 
-os.chdir('V:\Python\mcq checker')
+os.chdir('C:\Stash\Coding\mcq checker\solution files')
 
 with open('Records.txt', 'a+') as writer:
     for g in record:
