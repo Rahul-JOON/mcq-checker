@@ -13,7 +13,10 @@
 - I used this script to check my answers and it helped me a lot in revising the concepts.
 
 ## Demo
-
+![CMD](https://github.com/Rahul-JOON/mcq-checker/blob/master/Demo/cmd.png)
+![UI](https://github.com/Rahul-JOON/mcq-checker/blob/master/Demo/UI.png)
+![Report](https://github.com/Rahul-JOON/mcq-checker/blob/master/Demo/Report.png)
+![Records](https://github.com/Rahul-JOON/mcq-checker/blob/master/Demo/Records.png)
 
 ## How to use
 - (I doubt anybody would ever use this on their own local machine; but here's the 'HOW to')
